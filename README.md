@@ -1,4 +1,4 @@
-# CSCI 2275 – Midterm 1, Part II: Coding Problem
+# Midterm Coding Problem
 
 
 
@@ -62,15 +62,3 @@ After a call to `li.moveMinToHead` it should look like:
  4. If there are no compilation errors, two executables will be generated within the build directory: `run_app_1` and `run_tests`.
  5. If you would like to run your program including your app implementation in the `main` function, execute `run_app_1` from the terminal by typing `./run_app_1`.
  6. To run the grading tests, execute `run_tests` from the terminal by typing `./run_tests`. 
- 7. Your submission will be the code you commit and push by the exam end time. (Note: you do NOT need to paste your link back into Canvas.) Reminder. This is how you commit/push in git/GitHub:
- * Stage
-     ```console
-     $ git add ../code_1/LinkedList.cpp
-     ```
- * Commit the changes to our local repository:
-     ```console
-     $ git commit -m 'this is my commit'
-     ```
- * Push to GitHub 
-     ```console
-     $ git push
